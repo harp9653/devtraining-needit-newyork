@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2020-04-02 07:26:22">
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2020-04-02 16:12:27">
     <sys_portal_page action="INSERT_OR_UPDATE">
         <layout/>
         <order/>
@@ -260,6 +260,86 @@
                         <sys_mod_count>0</sys_mod_count>
                         <sys_updated_by>admin</sys_updated_by>
                         <sys_updated_on>2020-04-02 07:11:27</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Due Monthly">49e3b6af2fb3c0106dc2c886f699b6fd</page>
+                <summary>NeedIt Requests by Which Half of Month - 6 Month Sum</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2020-04-02 16:07:39</sys_created_on>
+                <sys_id>ff81387f2f7bc0106dc2c886f699b689</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2020-04-02 16:10:48</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 04-02-2020 11:07:39">ff81387f2f7bc0106dc2c886f699b689</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-04-02 16:07:39</sys_created_on>
+                        <sys_id>3f81b0bf2f7bc0106dc2c886f699b674</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-04-02 16:10:48</sys_updated_on>
+                        <value>NeedIt Requests by Which Half of Month - 6 Month Sum</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 04-02-2020 11:07:39">ff81387f2f7bc0106dc2c886f699b689</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-04-02 16:07:39</sys_created_on>
+                        <sys_id>7781387f2f7bc0106dc2c886f699b68a</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-04-02 16:10:48</sys_updated_on>
+                        <value>a9a1747f2f7bc0106dc2c886f699b6e5</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_time</name>
+                        <portal_section display_value="Created 04-02-2020 11:07:39">ff81387f2f7bc0106dc2c886f699b689</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-04-02 16:07:39</sys_created_on>
+                        <sys_id>7b81b0bf2f7bc0106dc2c886f699b674</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-04-02 16:07:39</sys_updated_on>
+                        <value>0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 04-02-2020 11:07:39">ff81387f2f7bc0106dc2c886f699b689</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-04-02 16:07:39</sys_created_on>
+                        <sys_id>b381387f2f7bc0106dc2c886f699b68b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-04-02 16:07:39</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 04-02-2020 11:07:39">ff81387f2f7bc0106dc2c886f699b689</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-04-02 16:07:39</sys_created_on>
+                        <sys_id>f781b0bf2f7bc0106dc2c886f699b675</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-04-02 16:10:49</sys_updated_on>
+                        <value>pa_widgets</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 04-02-2020 11:07:39">ff81387f2f7bc0106dc2c886f699b689</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-04-02 16:07:39</sys_created_on>
+                        <sys_id>ff81387f2f7bc0106dc2c886f699b68a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-04-02 16:07:39</sys_updated_on>
                         <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
                     </sys_portal_preferences>
                 </related_items_node>
