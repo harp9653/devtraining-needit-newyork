@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_breakdown_mappings">
+    <pa_breakdown_mappings action="DELETE">
+        <breakdown display_value="NeedIt Requested for">fd3846e72f33c0106dc2c886f699b67f</breakdown>
+        <facts_table>x_58872_needit_needit</facts_table>
+        <field>u_requested_for</field>
+        <script/>
+        <scripted>false</scripted>
+        <sys_class_name>pa_breakdown_mappings</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-02 03:47:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b53846e72f33c0106dc2c886f699b683</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fd3846e72f33c0106dc2c886f699b67f</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_breakdown_mappings_b53846e72f33c0106dc2c886f699b683</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-02 03:47:47</sys_updated_on>
+    </pa_breakdown_mappings>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>abfe57dcdb38bb40387021c40596196d</instance_id>
+        <instance_name>dev80023</instance_name>
+        <name>pa_breakdown_mappings_b53846e72f33c0106dc2c886f699b683</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_breakdown_mappings"><pa_breakdown_mappings action="INSERT_OR_UPDATE"><breakdown display_value="NeedIt Requested for">fd3846e72f33c0106dc2c886f699b67f</breakdown><facts_table>x_58872_needit_needit</facts_table><field>u_requested_for</field><script/><scripted>false</scripted><sys_class_name>pa_breakdown_mappings</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-02 03:47:47</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b53846e72f33c0106dc2c886f699b683</sys_id><sys_mod_count>0</sys_mod_count><sys_name>fd3846e72f33c0106dc2c886f699b67f</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>pa_breakdown_mappings_b53846e72f33c0106dc2c886f699b683</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-02 03:47:47</sys_updated_on></pa_breakdown_mappings></record_update>]]></payload>
+        <payload_hash>1601381784</payload_hash>
+        <record_name>fd3846e72f33c0106dc2c886f699b67f</record_name>
+        <reverted_from/>
+        <source>d7822ecb2f7740106dc2c886f699b6ae</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-02 03:47:47</sys_created_on>
+        <sys_id>793846e72f33c0106dc2c886f699b685</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171390085510000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-02 03:47:47</sys_updated_on>
+        <type>Breakdown Mapping</type>
+        <update_guid>b13846e77833c010a649752e2a798285</update_guid>
+        <update_guid_history>b13846e77833c010a649752e2a798285:1601381784</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">38abc2eb2f33c0106dc2c886f699b679</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-02 04:02:44</sys_created_on>
+        <sys_db_object display_value="" name="pa_breakdown_mappings">pa_breakdown_mappings</sys_db_object>
+        <sys_id>08fb1c6cd7bc49c88871830725739551</sys_id>
+        <sys_metadata>b53846e72f33c0106dc2c886f699b683</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fd3846e72f33c0106dc2c886f699b67f</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>pa_breakdown_mappings_b53846e72f33c0106dc2c886f699b683</sys_update_name>
+        <sys_update_version display_value="pa_breakdown_mappings_b53846e72f33c0106dc2c886f699b683">793846e72f33c0106dc2c886f699b685</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-02 04:02:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
